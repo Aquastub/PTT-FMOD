@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{67f95b3a-6a5f-44bd-9d61-50b2f99d724c}">
 		<property name="assetPath">
-			<value>modded/escape/Last Boss (Lap 1 Panic).flac</value>
+			<value>modded/escape/Last Boss (Lap 1 Panic, Unused).flac</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
