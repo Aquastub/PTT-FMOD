@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{2ea9bb8f-d299-4991-b424-398336bfad36}">
 		<property name="assetPath">
-			<value>modded/escape/LAST BOSS (Mark III-PSG).flac</value>
+			<value>modded/escape/Last Boss (Lap 5+, Pizelle).flac</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
