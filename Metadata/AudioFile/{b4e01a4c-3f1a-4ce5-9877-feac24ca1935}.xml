@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{b4e01a4c-3f1a-4ce5-9877-feac24ca1935}">
 		<property name="assetPath">
-			<value>modded/escape/Gumbatighter (Lap 2).flac</value>
+			<value>modded/escape/Gumbatighter (Lap 2, Noise).flac</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

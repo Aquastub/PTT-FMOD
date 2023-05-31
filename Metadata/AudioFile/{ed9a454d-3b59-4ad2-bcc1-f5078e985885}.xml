@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{ed9a454d-3b59-4ad2-bcc1-f5078e985885}">
 		<property name="assetPath">
-			<value>modded/escape/Su-Ki-Da (Lap 5+).flac</value>
+			<value>modded/escape/Su-Ki-Da (Lap 5+, Noise).flac</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

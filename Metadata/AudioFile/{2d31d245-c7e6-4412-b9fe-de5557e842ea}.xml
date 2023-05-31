@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{2d31d245-c7e6-4412-b9fe-de5557e842ea}">
 		<property name="assetPath">
-			<value>modded/escape/Ya-Da-Ne (Lap 1 Panic).flac</value>
+			<value>modded/escape/Ya-Da-Ne (Pizza Time Panic, Peppino &amp; Gustavo).flac</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
